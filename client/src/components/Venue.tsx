@@ -15,7 +15,7 @@ interface VenueInfo {
 const venues: VenueInfo[] = [
   {
     name: 'Babylon\'s Garden',
-    address: 'P786+2RF, Carthage, Tunisie',
+    address: 'P786+2RF, mornag, Tunisie',
     phone: '+216 51 883 360',
     email: 'contact@babylons-garden.com',
     website: 'https://www.google.com/maps/dir//Babylon\'s+Garden,+P786%2B2RF/',
